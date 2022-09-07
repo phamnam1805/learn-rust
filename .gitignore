@@ -1,0 +1,8 @@
+
+target/
+artifacts/
+.env
+
+Cargo.lock
+
+**/*.rs.bk
